@@ -67,3 +67,7 @@ semantic similarity  | **62.1** | **71.0** | **78.5** | **82.4**
 None(baseline) |  61.7 | 72.1 | 80.2 | 83.5
 category hierarchy| 67.0 | 74.5 | 80.8 | 83.3
 semantic similarity  | **68.4** | **75.2** | **80.9** | **83.4**
+
+## Contributing
+
+Feel free to contact us sysucrq@gmail.com & tianshuichen@gmail.com & wuhefeng@gmail.com if you have any question.
